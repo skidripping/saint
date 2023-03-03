@@ -1,0 +1,18 @@
+{
+    "database": {
+        "name": "mirai",
+        "username": "root",
+        "password": "root",
+        "host": "127.0.0.1"
+    },
+
+    "masters": {
+        "host": "0.0.0.0:1337",
+        "whitelist": ["",""],
+
+        "bot": {
+            "host": "0.0.0.0:1337"
+        }
+    }
+}
+
