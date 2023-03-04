@@ -1,9 +1,9 @@
 ~ Busybot (1.6.a)
 
  - This isn't done, i only leaked it cause:
-   A. shit source
-   B. learning C++
-   C. reason for motivation
+   A. shit source\
+   B. learning C++\
+   C. reason for motivation\
 
  ~ Features:
    - Good evasion for standard library functions
